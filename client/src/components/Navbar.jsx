@@ -41,7 +41,7 @@ export default function Navbar() {
             <FaPlus /> Items
           </Link>
           <Link
-            to="/items/detail/1"
+            to="/users"
             className="flex items-center gap-2 hover:text-yellow-300 transition-colors duration-200"
           >
             <FaInfoCircle /> Users
